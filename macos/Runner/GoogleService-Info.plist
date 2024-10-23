@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>323949453003-kt6cn2nk5akit8oqlr6in8p7mal4occs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.323949453003-kt6cn2nk5akit8oqlr6in8p7mal4occs</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>323949453003-na2eesvgbm3tmmku4fehi844ek84grpo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCeaB8DFEMImupwmi0kQEAPpZwxPAPEY7o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>323949453003</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.everestvpn.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>everstvpn-98e90</string>
+	<key>STORAGE_BUCKET</key>
+	<string>everstvpn-98e90.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:323949453003:ios:e68dd449e1aa104b03c54e</string>
+</dict>
+</plist>

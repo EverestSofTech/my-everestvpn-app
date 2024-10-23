@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "323949453003",
+    "project_id": "everstvpn-98e90",
+    "storage_bucket": "everstvpn-98e90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323949453003:android:70e2fd10cf1b4fe703c54e",
+        "android_client_info": {
+          "package_name": "com.everestvpn.vpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323949453003-na2eesvgbm3tmmku4fehi844ek84grpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.everestvpn.vpn",
+            "certificate_hash": "d999ee571652e5519ed9467584df2191e988451f"
+          }
+        },
+        {
+          "client_id": "323949453003-u9k1q1phdasb11uuo1if8i2kagglpmdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwBQOnPRPBY9IYS9Sye6BjrBMzUAsm-K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323949453003-u9k1q1phdasb11uuo1if8i2kagglpmdr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323949453003-03likhs5pom5bev3memvkqjo6etlogua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.griddownllc.tunnelvpn.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
